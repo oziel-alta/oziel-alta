@@ -14,7 +14,7 @@
 
 <h4 align="left">HOLA SOY ANDY, Y ESTAS VIENDO DISNEY CHANNEL :)</h4>
 
-<p align="left">📚 Actualmente estudió en el Cecytem de Tecámac <br>🏈 Me gusta y practicaba el fútbol americano <br>🎮 Cuando tengo tiempo juegos videojuegos <br>❤️ Me gusta estar con mi familia <br>💻 Programar es mi pasión <br>🎵 Me gusta escuchar música</p>
+<p align="left">📚 Actualmente estudió en el Cecytem de Tecámac <br>🏈 Me gusta y practicaba el fútbol americano <br>🎮 Cuando tengo tiempo juego videojuegos <br>❤️ Me gusta estar con mi familia <br>💻 Programar es mi pasión <br>🎵 Me gusta escuchar música</p>
 
 ###
 <h4 align="center">YO CODIFICO CON</h4>
